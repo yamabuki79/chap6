@@ -10,12 +10,14 @@
   background-size: cover;
   background-position: center;
 }
+
 .img2{
   height: 200px;
   background-image: url(img/box2.jpg);
   background-size: cover;
   background-position: center;
 }
+
 .img3{
   height: 200px;
   background-image: url(img/box3.jpg);
